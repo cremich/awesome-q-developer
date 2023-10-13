@@ -1,2 +1,2 @@
-# awesome-codewhisperer
-🤖 🧑‍💻  🛠️ A curated list of awesome things related to Amazon Codewhisperer 
+# Awesome Amazon Codewhisperer
+> 🤖 🧑‍💻  🛠️ A curated list of awesome things related to Amazon Codewhisperer
