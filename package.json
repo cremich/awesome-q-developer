@@ -1,0 +1,31 @@
+{
+  "name": "awesome-codewhisperer",
+  "version": "1.0.0",
+  "description": "A curated list of awesome things related to Amazon Codewhisperer",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cremich/awesome-codewhisperer.git"
+  },
+  "keywords": [
+    "awesome",
+    "amazon-codewhisperer",
+    "gen-ai",
+    "coding-assistant"
+  ],
+  "author": "Christian Bonzelet",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/cremich/awesome-codewhisperer/issues"
+  },
+  "homepage": "https://github.com/cremich/awesome-codewhisperer#readme",
+  "devDependencies": {
+    "@commitlint/cli": "17.8.0",
+    "@commitlint/config-conventional": "17.8.0",
+    "husky": "^8.0.0",
+    "lint-staged": "15.0.1"
+  }
+}
