@@ -4,7 +4,8 @@
   "description": "A curated list of awesome things related to Amazon Codewhisperer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "precommit": "lint-staged"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,7 @@
     "@commitlint/cli": "17.8.0",
     "@commitlint/config-conventional": "17.8.0",
     "husky": "^8.0.0",
-    "lint-staged": "15.0.1"
+    "lint-staged": "15.0.1",
+    "prettier": "3.0.3"
   }
 }
