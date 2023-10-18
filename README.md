@@ -46,3 +46,5 @@
 - [AWS Toolkit for JetBrains](https://plugins.jetbrains.com/plugin/11349-aws-toolkit) - The AWS Toolkit for JetBrains is an extension for connecting your favorite IDE to use AmazonCodewhisperer.
 
 - [Usage Analyzer for Amazon CodeWhisperer](https://github.com/aws-samples/amazon-codewhisperer-usage-analyzer) - The Amazon CodeWhisperer usage analyzer is used to perform analysis on code suggestions and security scans for Organizations using the CodeWhisperer professional tier.
+
+- [vimwhisperer](https://github.com/ryanpetrello/vimwhisperer) - A simple Vim plugin for AWS CodeWhisperer code completion support. Author: [Ryan Petrello](https://github.com/ryanpetrello)
