@@ -23,6 +23,8 @@
 
 - [Guidance for Operationalizing Development with Amazon CodeWhisperer](https://aws-solutions-library-samples.github.io/app-development/operationalizing-development-with-amazon-codewhisperer.html?did=sl_card&trk=sl_card#generating-effective-prompts) - This guidance helps you configure and optimize the tool responsibly. It also provides some useful tips to generate effective prompts.
 
+- [How Good Are AI Coding Companions? 'It Depends!'](https://community.aws/posts/how-good-are-ai-companions-it-depends) - Practical guide for using an AI Coding assistant and improve your productivity. Author: [Romain Jourdan](https://github.com/rjourdan)
+
 ## 📺 Videos
 
 - [Mastering the art of CodeWhisperer 🪄](https://www.youtube.com/playlist?list=PLDqi6CuDzubxzL-yIqgQb9UbbceYdKhpK) - An awesome playlist including a wide range of demos on how Amazon Codewhisperer can make you develop code faster, make your code more secure, can let you build complete solutions write better tests and more accurate documentation. Author: [Tiffany Souterre](https://github.com/Amagash), Brooke Jamieson and [Olivier Leplus](https://github.com/tagazok)
