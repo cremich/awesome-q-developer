@@ -33,6 +33,8 @@
 
 - [Build a Python Event-driven Serverless App with Amazon CodeWhisperer](https://www.youtube.com/watch?v=8vkHLnhIFGA) - In this video, you will learn how you can build Python Lambda functionsf or your event-driven serverless application with Amazon CodeWhisperer.
 
+- [Learning Data Structures with Amazon CodeWhisperer](https://www.youtube.com/watch?v=oAciet0gDvs&list=PL5bUlblGfe0IOZEW8KBAzc1bCW8UcarAD) - A great series of videos that explain how you can learn data structures with Amazon Codewhisperer. Each video contains a lot of examples in Java. Author: [Ricardo Ferreira](https://github.com/riferrei)
+
 ## 🧑‍💻 Labs & Workshops
 
 - [Amazon CodeWhisperer workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/en-US) - In this workshop, you will use Amazon CodeWhisperer to learn the basics of prompt engineering for python, java, react, sql, shell and sagemaker. As well as how to use the security scan feature.
