@@ -29,6 +29,8 @@
 
 - [Optimize for sustainability with Amazon CodeWhisperer](https://aws.amazon.com/blogs/machine-learning/optimize-for-sustainability-with-amazon-codewhisperer/) - The article discusses how Amazon CodeWhisperer, a generative AI coding assistant, can optimize code for environmental sustainability by increasing resource efficiency.
 
+- [10 ways to build applications faster with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/10-ways-to-build-applications-faster-with-amazon-codewhisperer/) - This article shares best practices of prompt engineering, using practical examples to illustrate how CodeWhisperer can enhance your programming workflow.
+
 ## 📺 Videos
 
 - [Mastering the art of CodeWhisperer 🪄](https://www.youtube.com/playlist?list=PLDqi6CuDzubxzL-yIqgQb9UbbceYdKhpK) - An awesome playlist including a wide range of demos on how Amazon Codewhisperer can make you develop code faster, make your code more secure, can let you build complete solutions write better tests and more accurate documentation. Author: [Tiffany Souterre](https://github.com/Amagash), Brooke Jamieson and [Olivier Leplus](https://github.com/tagazok)
