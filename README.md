@@ -25,6 +25,8 @@
 
 - [How Good Are AI Coding Companions? 'It Depends!'](https://community.aws/posts/how-good-are-ai-companions-it-depends) - Practical guide for using an AI Coding assistant and improve your productivity. Author: [Romain Jourdan](https://github.com/rjourdan)
 
+- [Customizing coding companions for organizations](https://aws.amazon.com/blogs/machine-learning/customizing-coding-companions-for-organizations/) - This article discusses the customization of generative AI models for coding, particularly for use within private organizations.
+
 ## 📺 Videos
 
 - [Mastering the art of CodeWhisperer 🪄](https://www.youtube.com/playlist?list=PLDqi6CuDzubxzL-yIqgQb9UbbceYdKhpK) - An awesome playlist including a wide range of demos on how Amazon Codewhisperer can make you develop code faster, make your code more secure, can let you build complete solutions write better tests and more accurate documentation. Author: [Tiffany Souterre](https://github.com/Amagash), Brooke Jamieson and [Olivier Leplus](https://github.com/tagazok)
