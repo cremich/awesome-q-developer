@@ -65,6 +65,8 @@
 
 - [Build using Amazon CodeWhisperer](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16401/build-using-amazon-codewhisperer) - Are you a DevOps professional who constantly juggles complex coding tasks? In this Jam Journey, we are excited to announce Amazon CodeWhisperer as the new AWS console service added to Jam Console! With Amazon CodeWhisperer, you will own the weapon for code generation to bypass time-consuming coding tasks!
 
+- [Build a React App with CodeWhisperer](https://github.com/aws-samples/build-react-full-stack-app-with-codewhisperer) - In this workshop, you will use Amazon CodeWhisperer to develop application in React Full-stack(MERN stack) with help of the basics of prompt engineering. MERN Stack is a collection of MongoDB, Express, React and Node, used to develop web applications comprising backend, front-end, and database components. It is JavaScript that is used for the faster and easier development of full-stack web applications.
+
 ## 🛠️ Tools & Integrations
 
 - [AWS Toolkit for VSCode](https://github.com/aws/aws-toolkit-vscode) - The AWS Toolkit for Visual Studio Code is an extension for connecting your favorite IDE to use AmazonCodewhisperer.
