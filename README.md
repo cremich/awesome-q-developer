@@ -31,6 +31,14 @@
 
 - [10 ways to build applications faster with Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/10-ways-to-build-applications-faster-with-amazon-codewhisperer/) - This article shares best practices of prompt engineering, using practical examples to illustrate how CodeWhisperer can enhance your programming workflow.
 
+- [Use VSCode to write Terraform? AWS AI can now help you write your code!](https://dev.to/aws-builders/use-vscode-to-write-terraform-aws-ai-can-now-help-you-write-your-code-59nn) - This article shows some examples how to use Amazon Codewhisperer to provide code recommendations for Terraform. Author: [Simon Hanmer](https://www.linkedin.com/in/simonhanmer/)
+
+- [How to use Amazon CodeWhisperer using Okta as an external IdP](https://aws.amazon.com/blogs/devops/how-to-use-amazon-codewhisperer-using-okta-as-an-external-idp/) - This article shows you how to set up Okta as an external IdP for IAM Identity Center and enable access to CodeWhisperer using existing Okta credentials. Author: [Chetan Makvana](https://www.linkedin.com/in/cmakvana/) & [Balachander Keelapudi](https://www.linkedin.com/in/balachanderkeelapudi/)
+
+- [https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-dashboard-and-cloudwatch-metrics/](https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-dashboard-and-cloudwatch-metrics/) - This blog post walks through the new metrics and dashboard options. Note that these features are only available in CodeWhisperer Professional. Author: [Karthik Rao]()
+
+- [Developing with Java and Spring Boot using Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/developing-with-java-and-spring-boot-using-amazon-codewhisperer/) - Explore how to leverage CodeWhisperer in Java applications specifically using the Spring Boot framework. Authors: [Rajdeep Banerjee](https://www.linkedin.com/in/rajdeep-banerjee/) & Jason Varghese
+
 ## 📺 Videos
 
 - [Mastering the art of CodeWhisperer 🪄](https://www.youtube.com/playlist?list=PLDqi6CuDzubxzL-yIqgQb9UbbceYdKhpK) - An awesome playlist including a wide range of demos on how Amazon Codewhisperer can make you develop code faster, make your code more secure, can let you build complete solutions write better tests and more accurate documentation. Author: [Tiffany Souterre](https://github.com/Amagash), Brooke Jamieson and [Olivier Leplus](https://github.com/tagazok)
