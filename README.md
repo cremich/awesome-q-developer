@@ -67,6 +67,8 @@
 
 - [Build a React App with CodeWhisperer](https://github.com/aws-samples/build-react-full-stack-app-with-codewhisperer) - In this workshop, you will use Amazon CodeWhisperer to develop application in React Full-stack(MERN stack) with help of the basics of prompt engineering. MERN Stack is a collection of MongoDB, Express, React and Node, used to develop web applications comprising backend, front-end, and database components. It is JavaScript that is used for the faster and easier development of full-stack web applications.
 
+- [Guidance for Creating a Customized Coding Companion with Amazon CodeWhisperer on AWS](https://github.com/aws-solutions-library-samples/guidance-for-creating-a-customized-coding-companion-with-amazon-codewhisperer) - This automated solution enables customers to leverage public open source repositories to train more robust customizations with Amazon CodeWhisperer Professional. By orchestrating the process of detecting, downloading, and preparing new repository releases, this architecture provides seamless access to a wealth of up-to-date training data.
+
 ## 🛠️ Tools & Integrations
 
 - [AWS Toolkit for VSCode](https://github.com/aws/aws-toolkit-vscode) - The AWS Toolkit for Visual Studio Code is an extension for connecting your favorite IDE to use AmazonCodewhisperer.
