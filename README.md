@@ -1,8 +1,8 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-# Awesome Amazon CodeWhisperer
+# Awesome Amazon Q Developer
 
-> 🤖 🧑‍💻 🛠️ A curated list of awesome things related to Amazon Codewhisperer
+> 🤖 🧑‍💻 🛠️ A curated list of awesome things related to Amazon Q Developer
 
 ## Contents
 
