@@ -59,7 +59,7 @@
 
 ## 📺 Videos
 
--[6 Ways to Boost Your Coding Productivity with Amazon Q Developer](https://www.youtube.com/watch?v=wBM1X6-EDGw) - In this video, AWS Senior Developer Advocate [Tiffany Souterre](https://github.com/Amagash) walks you through her top 6 tips that you can use today with Amazon Q. If you're not familiar, Amazon Q is a Generative AI Assistant that can help you across software development, from coding, diagnosing errors, optimizing AWS resources & more!.
+- [6 Ways to Boost Your Coding Productivity with Amazon Q Developer](https://www.youtube.com/watch?v=wBM1X6-EDGw) - In this video, AWS Senior Developer Advocate [Tiffany Souterre](https://github.com/Amagash) walks you through her top 6 tips that you can use today with Amazon Q. If you're not familiar, Amazon Q is a Generative AI Assistant that can help you across software development, from coding, diagnosing errors, optimizing AWS resources & more!.
 
 - [Mastering the art of CodeWhisperer 🪄](https://www.youtube.com/playlist?list=PLDqi6CuDzubxzL-yIqgQb9UbbceYdKhpK) - An awesome playlist including a wide range of demos on how Amazon Codewhisperer can make you develop code faster, make your code more secure, can let you build complete solutions write better tests and more accurate documentation. Author: [Tiffany Souterre](https://github.com/Amagash), Brooke Jamieson and [Olivier Leplus](https://github.com/tagazok)
 
