@@ -23,7 +23,7 @@
 
 - [Test Driven Development with Amazon Q Developer](https://community.aws/content/2freQx3PAGvuHlULJ2kJ57WP34E/test-driven-development-with-amazon-q-developer) - Accelerate through the TDD cycle with Amazon Q Developer. Author: [Mohammed Fazalullah](https://github.com/codesforwork)
 
-- [https://community.aws/content/2gBZtC94gPzaCQRnt4P0rIYWuBx/shift-left-workload-leveraging-ai-for-test-creation](https://community.aws/content/2gBZtC94gPzaCQRnt4P0rIYWuBx/shift-left-workload-leveraging-ai-for-test-creation) - How Amazon Q can automate test creation for faster, higher quality delivery. Author: [Stuart Clark](https://github.com/bigevilbeard)
+- [Shift left Workload. Leveraging AI for test creation](https://community.aws/content/2gBZtC94gPzaCQRnt4P0rIYWuBx/shift-left-workload-leveraging-ai-for-test-creation) - How Amazon Q can automate test creation for faster, higher quality delivery. Author: [Stuart Clark](https://github.com/bigevilbeard)
 
 - [I'm a lazy developer. Here's how Amazon Q is enabling me](https://community.aws/content/2gQKqKLQqKmlvFsnp4zuCENKW8i/i-m-a-lazy-developer-here-s-how-amazon-q-is-enabling-me) - I'm always on the hunt for ways to improve my productivity as a lazy developer. Here's what I've learned and how Amazon Q is helping me stay in the flow. Author: [Jenna Pederson](https://github.com/jennapederson)
 
