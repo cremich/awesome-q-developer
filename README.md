@@ -79,6 +79,8 @@
 
 ## 🧑‍💻 Labs & Workshops
 
+- [Guidance for Creating a Customized Coding Companion with Amazon Q Customizations](https://aws.amazon.com/solutions/guidance/creating-a-customized-coding-companion-with-amazon-q-developer/) - This automated solution enables customers to leverage public open source repositories to train more robust customizations with Amazon Q Customizations. By orchestrating the process of detecting, downloading, and preparing new repository releases, this architecture provides seamless access to a wealth of up-to-date training data.
+
 - [Amazon Q Developer Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/140d775f-670f-4e22-96e0-545515e7b35f/en-US) - In this immersive workshop, you will explore the transformative impact of generative AI on the development activities, allowing you to apply next-generation developer experience concepts throughout your SDLC. You will gain practical insights into how generative AI can significantly enhances your efficiency.
 
 - [Amazon CodeWhisperer workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/en-US) - In this workshop, you will use Amazon CodeWhisperer to learn the basics of prompt engineering for python, java, react, sql, shell and sagemaker. As well as how to use the security scan feature.
