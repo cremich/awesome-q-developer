@@ -13,6 +13,12 @@
 
 ## 📝 Blog Posts & Articles
 
+- [Getting Started with Amazon Q Developer agent for code transformation](https://community.aws/content/2eVdhUJCeXdscDUnfGK4GpCZ6Ya/getting-started-with-amazon-q-developer-agent-for-code-transformation) - This blog will guide you step-by-step to start upgrading your Java 8 or 11 projects to Java 17 code easily using Amazon Q Developer agent for code transformation. Author: [Vinicius Senger](https://github.com/vsenger)
+
+- [A practical approach to using generative AI in the SDLC](https://community.aws/content/2i1vLMdryliLgpdceMy2N6o2LPn/a-practical-approach-to-using-generative-ai-in-the-sdlc) - Learn how an AI assistant like Amazon Q Developer helps me figure out what to build and how to build it. Author: [Jenna Pederson](https://github.com/jennapederson)
+
+- [Unleash Amazon Q Developer: From Code Creation to Legacy Code Optimization](https://community.aws/content/2gAesRvMD6g065geDeg6MQBAJD7/unleash-amazon-q-developer-from-code-creation-to-legacy-code-optimization-part-1) - In this blog post, we will explore the power of Amazon Q Developer within Visual Studio Code to develop code for listing Amazon S3 buckets in a specific region. We will start by writing the initial code with the assistance of the Amazon Q Developer Agent, and then compare it to an existing inefficient "legacy" code. Subsequently, we will optimize the legacy code through Amazon Q Developer’s guidance, resulting in a significant reduction in execution time. Author: [Haowen Huang](https://community.aws/@popkee)
+
 - [Accelerate your Software Development Lifecycle with Amazon Q](https://aws.amazon.com/blogs/devops/accelerate-your-software-development-lifecycle-with-amazon-q/) - This blog post explores how Amazon Q can accelerate development tasks across the SDLC using an example To-Do API project. Throughout this blog, we will navigate through the various phases of the SDLC while implementing To-Do API by leveraging Amazon Q Business and Amazon Q Developer. We will walk through common use cases for Amazon Q Business in the planning and research phases, and Amazon Q Developer in the research, design, development, testing, and maintenance phases. Author: Chetan Makvana, Suruchi Saxena, and Venugopalan Vasudevan.
 
 - [Using the Amazon Q feature development capability to write documentation](https://it20.info/2024/3/using-the-amazon-q-feature-development-capability-to-produce-documentation/) - In this short blog post I wanted to show how generative AI can potentially be of help with use cases that go beyond generating code. The examples I have shown are rather basic, but hopefully they give you an idea of where these assistants may directionally end up going for more sophisticated use cases and requirements in the context of their code-to-english capabilities. Author: [Massimo Re Ferrè](https://github.com/mreferre)
@@ -59,6 +65,10 @@
 
 ## 📺 Videos
 
+- [Implementing Observability with Amazon Q Developer](https://www.youtube.com/playlist?list=PL5bUlblGfe0Jvmb9gnDXx-LIr2_u4JpLA) - Implementing observability can be easy if you work with the right person. Sometimes it doesn't need to be a person, but a machine who understands your needs. In this video, Ricardo Ferreira from AWS shows how to use Amazon Q Developer to instrument a microservice written in Go for OpenTelemetry. Author: [Ricardo Ferreira](https://github.com/riferrei)
+
+- [Developer Productivity and Happiness](https://www.youtube.com/playlist?list=PLRQABTTCtpPpOIpFO8OwYGtlLCtNHeJSo) - A video playlist with practical examples on using Amazon Q Developer across the whole SDLC. Author: [Ricardo Sueiras](https://github.com/094459)
+
 - [6 Ways to Boost Your Coding Productivity with Amazon Q Developer](https://www.youtube.com/watch?v=wBM1X6-EDGw) - In this video, AWS Senior Developer Advocate [Tiffany Souterre](https://github.com/Amagash) walks you through her top 6 tips that you can use today with Amazon Q. If you're not familiar, Amazon Q is a Generative AI Assistant that can help you across software development, from coding, diagnosing errors, optimizing AWS resources & more!.
 
 - [Mastering the art of CodeWhisperer 🪄](https://www.youtube.com/playlist?list=PLDqi6CuDzubxzL-yIqgQb9UbbceYdKhpK) - An awesome playlist including a wide range of demos on how Amazon Codewhisperer can make you develop code faster, make your code more secure, can let you build complete solutions write better tests and more accurate documentation. Author: [Tiffany Souterre](https://github.com/Amagash), Brooke Jamieson and [Olivier Leplus](https://github.com/tagazok)
@@ -79,19 +89,15 @@
 
 ## 🧑‍💻 Labs & Workshops
 
+- [Amazon Q Developer Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US) - This workshop will help you learn how to use Amazon Q Developer to write code faster and with fewer errors. Amazon Q Developer is an AI coding companion that provides suggestions for code snippets & full code generation based on the context of your file, function & variable names, and comments. It is powered by machine learning and trained on billions of lines of AWS & other open source code. However, Amazon Q Developer can limit the suggested code to open source code based on the license type that is not restrictive.
+
+- [Securing your Code with Amazon Q Developer](https://catalog.us-east-1.prod.workshops.aws/workshops/fe2c944b-f014-44d6-a243-1fc2e30b5f73/en-US) - In this workshop, you will use the Security scanning feature of Q Developer to detect security policy violations and vulnerabilities in your code to help you improve it's security quality. Security scans in Q Developer identify security vulnerabilities and suggest how to improve your code. In some cases, Q Developer provides code you can use to address those vulnerabilities.
+
+- [Next Generation Developer Tools](https://github.com/094459/q-workshop) - A hands on guide to working with Amazon Q Developer. Made by DevRel with 💖. In this hands on lab, we are going to run through how to use the next generation of developer tooling to help make our jobs as developers more enjoyable and productive. We will create a new application from scratch, and then build upon this and perform many of the tasks you would typically do as a developer. Author: [Ricardo Sueiras](https://github.com/094459)
+
 - [Guidance for Creating a Customized Coding Companion with Amazon Q Customizations](https://aws.amazon.com/solutions/guidance/creating-a-customized-coding-companion-with-amazon-q-developer/) - This automated solution enables customers to leverage public open source repositories to train more robust customizations with Amazon Q Customizations. By orchestrating the process of detecting, downloading, and preparing new repository releases, this architecture provides seamless access to a wealth of up-to-date training data.
 
 - [Amazon Q Developer Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/140d775f-670f-4e22-96e0-545515e7b35f/en-US) - In this immersive workshop, you will explore the transformative impact of generative AI on the development activities, allowing you to apply next-generation developer experience concepts throughout your SDLC. You will gain practical insights into how generative AI can significantly enhances your efficiency.
-
-- [Amazon CodeWhisperer workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/en-US) - In this workshop, you will use Amazon CodeWhisperer to learn the basics of prompt engineering for python, java, react, sql, shell and sagemaker. As well as how to use the security scan feature.
-
-- [Amazon CodeWhisperer Getting Started](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16405/amazon-codewhisperer-getting-started) - In this course, you will learn how to install and start using CodeWhisperer in your supported integrated development environment (IDE) or code editor. You will also learn how to use the key features of CodeWhisperer, such as code completion, open-source reference tracking, security scans, and prompting to generate useful code suggestions. Finally, you will learn about subscription options, including features and costs.
-
-- [Build using Amazon CodeWhisperer](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16401/build-using-amazon-codewhisperer) - Are you a DevOps professional who constantly juggles complex coding tasks? In this Jam Journey, we are excited to announce Amazon CodeWhisperer as the new AWS console service added to Jam Console! With Amazon CodeWhisperer, you will own the weapon for code generation to bypass time-consuming coding tasks!
-
-- [Build a React App with CodeWhisperer](https://github.com/aws-samples/build-react-full-stack-app-with-codewhisperer) - In this workshop, you will use Amazon CodeWhisperer to develop application in React Full-stack(MERN stack) with help of the basics of prompt engineering. MERN Stack is a collection of MongoDB, Express, React and Node, used to develop web applications comprising backend, front-end, and database components. It is JavaScript that is used for the faster and easier development of full-stack web applications.
-
-- [Guidance for Creating a Customized Coding Companion with Amazon CodeWhisperer on AWS](https://github.com/aws-solutions-library-samples/guidance-for-creating-a-customized-coding-companion-with-amazon-codewhisperer) - This automated solution enables customers to leverage public open source repositories to train more robust customizations with Amazon CodeWhisperer Professional. By orchestrating the process of detecting, downloading, and preparing new repository releases, this architecture provides seamless access to a wealth of up-to-date training data.
 
 ## 🛠️ Tools & Integrations
 
@@ -100,5 +106,3 @@
 - [AWS Toolkit for JetBrains](https://plugins.jetbrains.com/plugin/11349-aws-toolkit) - The AWS Toolkit for JetBrains is an extension for connecting your favorite IDE to use AmazonCodewhisperer.
 
 - [Usage Analyzer for Amazon CodeWhisperer](https://github.com/aws-samples/amazon-codewhisperer-usage-analyzer) - The Amazon CodeWhisperer usage analyzer is used to perform analysis on code suggestions and security scans for Organizations using the CodeWhisperer professional tier. Author: [Chris Williams](https://github.com/chrisw-devops)
-
-- [vimwhisperer](https://github.com/ryanpetrello/vimwhisperer) - A simple Vim plugin for AWS CodeWhisperer code completion support. Author: [Ryan Petrello](https://github.com/ryanpetrello)
