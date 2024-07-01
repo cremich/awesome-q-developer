@@ -13,6 +13,8 @@
 
 ## 📝 Blog Posts & Articles
 
+- [Reimagining software development with the Amazon Q Developer Agent](https://aws.amazon.com/blogs/machine-learning/reimagining-software-development-with-the-amazon-q-developer-agent/) - This post describes how to get started with the software development agent, gives an overview of how the agent works, and discusses its performance on public benchmarks. Authors: Christian Bock, Laurent Callot, Martin Wistuba, Prabhu Teja, Tim Esler, and Giovanni Zappella
+
 - [Getting Started with Amazon Q Developer agent for code transformation](https://community.aws/content/2eVdhUJCeXdscDUnfGK4GpCZ6Ya/getting-started-with-amazon-q-developer-agent-for-code-transformation) - This blog will guide you step-by-step to start upgrading your Java 8 or 11 projects to Java 17 code easily using Amazon Q Developer agent for code transformation. Author: [Vinicius Senger](https://github.com/vsenger)
 
 - [A practical approach to using generative AI in the SDLC](https://community.aws/content/2i1vLMdryliLgpdceMy2N6o2LPn/a-practical-approach-to-using-generative-ai-in-the-sdlc) - Learn how an AI assistant like Amazon Q Developer helps me figure out what to build and how to build it. Author: [Jenna Pederson](https://github.com/jennapederson)
