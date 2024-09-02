@@ -13,6 +13,12 @@
 
 ## 📝 Blog Posts & Articles
 
+- [How I used Amazon Q Developer to move faster with data](https://community.aws/content/2jK26brVpXufp1eH7rN5mjkfydk/how-i-used-amazon-q-developer-to-move-faster-with-data) - Ricardo Sueiras shares how Amazon Q Developer can help you work quicker and more confidently with data.
+
+- [Building a Serverless Web Scraper with a ~little~ lot of help from Amazon Q](https://community.aws/content/2hsUp8ZV7UoQpVCApnaTOBljCai/serverless-web-scraper-with-amazon-q) - Follow Cobus Bernard building an application that helped him keeping an eye on the priority dates of his green card application with the help of Amazon Q Developer.  
+
+- [Writing CDK like a Pro using Amazon Q Customizations](https://community.aws/content/2jiAuQ0WB9fTInbfjgK9yXZt9f6/writing-cdk-like-a-pro-using-amazon-q-customizations) - Dive into the latest Amazon Q Developer Customizations feature, using the aws-cdk GitHub repository as the source of customization and write RedshiftServerless L2 constructs in just minutes. Author: Pahud Hsieh
+
 - [Reimagining software development with the Amazon Q Developer Agent](https://aws.amazon.com/blogs/machine-learning/reimagining-software-development-with-the-amazon-q-developer-agent/) - This post describes how to get started with the software development agent, gives an overview of how the agent works, and discusses its performance on public benchmarks. Authors: Christian Bock, Laurent Callot, Martin Wistuba, Prabhu Teja, Tim Esler, and Giovanni Zappella
 
 - [Getting Started with Amazon Q Developer agent for code transformation](https://community.aws/content/2eVdhUJCeXdscDUnfGK4GpCZ6Ya/getting-started-with-amazon-q-developer-agent-for-code-transformation) - This blog will guide you step-by-step to start upgrading your Java 8 or 11 projects to Java 17 code easily using Amazon Q Developer agent for code transformation. Author: [Vinicius Senger](https://github.com/vsenger)
@@ -66,6 +72,10 @@
 - [Developing with Java and Spring Boot using Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/developing-with-java-and-spring-boot-using-amazon-codewhisperer/) - Explore how to leverage CodeWhisperer in Java applications specifically using the Spring Boot framework. Authors: [Rajdeep Banerjee](https://www.linkedin.com/in/rajdeep-banerjee/) & Jason Varghese
 
 ## 📺 Videos
+
+- [Getting Started with Amazon Q Developer Customizations](https://youtu.be/dsjXb4TvfPg) - Sometimes developers need tailored code suggestions that comply with the coding standards from companies and open source projects. This is where the feature customizations come in handy. You can use source code from specific projects to teach Amazon Q Developer how to best give you the recommendation you need. Author: [Ricardo Ferreira](https://github.com/riferrei)
+
+- [Create a GenAI Stock Market Analyzer App Using Amazon Bedrock Studio and Amazon Q with Zero Coding](https://www.youtube.com/watch?v=QnZ-r0Q8Flg) - This video demonstrates how to build a generative AI application as a stock market analyzer leveraging Amazon Bedrock Studio and Amazon Q Developer, all without writing any code. You'll learn how to set up and integrate these tools to build agents that invoke Stock Market APIs, index 10k documents, and enable efficient search capabilities. Perfect for developers and data enthusiasts looking to harness the power of AI without the need for extensive coding knowledge. Author: Ameer Hakme.
 
 - [Implementing Observability with Amazon Q Developer](https://www.youtube.com/playlist?list=PL5bUlblGfe0Jvmb9gnDXx-LIr2_u4JpLA) - Implementing observability can be easy if you work with the right person. Sometimes it doesn't need to be a person, but a machine who understands your needs. In this video, Ricardo Ferreira from AWS shows how to use Amazon Q Developer to instrument a microservice written in Go for OpenTelemetry. Author: [Ricardo Ferreira](https://github.com/riferrei)
 
