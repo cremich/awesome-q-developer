@@ -13,6 +13,10 @@
 
 ## 📝 Blog Posts & Articles
 
+- [Look Ma: My Project in Go is Professional Now](https://community.aws/content/2mIjOOOqwyXj20vUhuYjb12PzwG/look-ma-my-project-in-go-is-professional-now) - Most software implementations start with experimentation and ideation. As soon as things start to work and build value, it is time to organize your code in a more professional manner so others can contribute. But sometimes, this is not always easy. In this blog post, Ricardo Ferreira will share an easy way to get your projects to look professional in no time.
+
+- [Three Amigos and a Generative AI Assistant](https://community.aws/content/2mG3roWdRCGNe33RzpIkzdZYgqD/three-amigos-and-a-generative-ai-assistant) - The blog post discusses using the AI assistant Amazon Q to support the Three Amigos meeting, a practice in Agile software development involving key stakeholders. It highlights how Behaviour-Driven Development (BDD) can be integrated into the Three Amigos meeting to capture requirements in an executable format. The post provides a mock transcript of a Three Amigos meeting and demonstrates how Amazon Q for Developer can generate feature files based on the transcript, using Cucumber and Gherkin language.
+
 - [How I used Amazon Q Developer to move faster with data](https://community.aws/content/2jK26brVpXufp1eH7rN5mjkfydk/how-i-used-amazon-q-developer-to-move-faster-with-data) - Ricardo Sueiras shares how Amazon Q Developer can help you work quicker and more confidently with data.
 
 - [Building a Serverless Web Scraper with a ~little~ lot of help from Amazon Q](https://community.aws/content/2hsUp8ZV7UoQpVCApnaTOBljCai/serverless-web-scraper-with-amazon-q) - Follow Cobus Bernard building an application that helped him keeping an eye on the priority dates of his green card application with the help of Amazon Q Developer.  
@@ -72,6 +76,8 @@
 - [Developing with Java and Spring Boot using Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/developing-with-java-and-spring-boot-using-amazon-codewhisperer/) - Explore how to leverage CodeWhisperer in Java applications specifically using the Spring Boot framework. Authors: [Rajdeep Banerjee](https://www.linkedin.com/in/rajdeep-banerjee/) & Jason Varghese
 
 ## 📺 Videos
+
+- [Streamline Your Git Commits with Amazon Q Developer CLI](https://www.youtube.com/watch?v=vRiqQqVlsyM) - Discover how Amazon Q Developer CLI revolutionizes your Git workflow with powerful context modifiers. Learn to use @git for generating precise commit messages, @env for environment insights, and @history for action recaps. See a live demo of the @git modifier in action, transforming your commit process. Boost productivity, improve team collaboration, and maintain cleaner code histories with Amazon Q's tailored assistance.
 
 - [Getting Started with Amazon Q Developer Customizations](https://youtu.be/dsjXb4TvfPg) - Sometimes developers need tailored code suggestions that comply with the coding standards from companies and open source projects. This is where the feature customizations come in handy. You can use source code from specific projects to teach Amazon Q Developer how to best give you the recommendation you need. Author: [Ricardo Ferreira](https://github.com/riferrei)
 
