@@ -77,6 +77,8 @@
 
 ## 📺 Videos
 
+- [Refactoring your Python App with 12-Factor Methodology](https://community.aws/content/2ijY3b6Prx7nWFfcSs16OFUBJmi/refactoring-your-python-app-with-12-factor-methodology) - This article, explores how to refactor a Python task management app using Amazon Q Developer and the /dev agent to better align with the 12-factor methodology. 
+
 - [Streamline Your Git Commits with Amazon Q Developer CLI](https://www.youtube.com/watch?v=vRiqQqVlsyM) - Discover how Amazon Q Developer CLI revolutionizes your Git workflow with powerful context modifiers. Learn to use @git for generating precise commit messages, @env for environment insights, and @history for action recaps. See a live demo of the @git modifier in action, transforming your commit process. Boost productivity, improve team collaboration, and maintain cleaner code histories with Amazon Q's tailored assistance.
 
 - [Getting Started with Amazon Q Developer Customizations](https://youtu.be/dsjXb4TvfPg) - Sometimes developers need tailored code suggestions that comply with the coding standards from companies and open source projects. This is where the feature customizations come in handy. You can use source code from specific projects to teach Amazon Q Developer how to best give you the recommendation you need. Author: [Ricardo Ferreira](https://github.com/riferrei)
