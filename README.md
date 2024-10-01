@@ -13,6 +13,10 @@
 
 ## 📝 Blog Posts & Articles
 
+- [DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-personalization-for-amazon-q-developer/) - This blog post explains an experiment that could potentially allow a builder to steer Q Developer to interact with you following patterns of their preference.
+
+- [Refactoring your Python App with 12-Factor Methodology](https://community.aws/content/2ijY3b6Prx7nWFfcSs16OFUBJmi/refactoring-your-python-app-with-12-factor-methodology) - This article, explores how to refactor a Python task management app using Amazon Q Developer and the /dev agent to better align with the 12-factor methodology. 
+
 - [Look Ma: My Project in Go is Professional Now](https://community.aws/content/2mIjOOOqwyXj20vUhuYjb12PzwG/look-ma-my-project-in-go-is-professional-now) - Most software implementations start with experimentation and ideation. As soon as things start to work and build value, it is time to organize your code in a more professional manner so others can contribute. But sometimes, this is not always easy. In this blog post, Ricardo Ferreira will share an easy way to get your projects to look professional in no time.
 
 - [Three Amigos and a Generative AI Assistant](https://community.aws/content/2mG3roWdRCGNe33RzpIkzdZYgqD/three-amigos-and-a-generative-ai-assistant) - The blog post discusses using the AI assistant Amazon Q to support the Three Amigos meeting, a practice in Agile software development involving key stakeholders. It highlights how Behaviour-Driven Development (BDD) can be integrated into the Three Amigos meeting to capture requirements in an executable format. The post provides a mock transcript of a Three Amigos meeting and demonstrates how Amazon Q for Developer can generate feature files based on the transcript, using Cucumber and Gherkin language.
@@ -76,10 +80,6 @@
 - [Developing with Java and Spring Boot using Amazon CodeWhisperer](https://aws.amazon.com/blogs/devops/developing-with-java-and-spring-boot-using-amazon-codewhisperer/) - Explore how to leverage CodeWhisperer in Java applications specifically using the Spring Boot framework. Authors: [Rajdeep Banerjee](https://www.linkedin.com/in/rajdeep-banerjee/) & Jason Varghese
 
 ## 📺 Videos
-
-- [DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-personalization-for-amazon-q-developer/) - This blog post explains an experiment that could potentially allow a builder to steer Q Developer to interact with you following patterns of their preference.
-
-- [Refactoring your Python App with 12-Factor Methodology](https://community.aws/content/2ijY3b6Prx7nWFfcSs16OFUBJmi/refactoring-your-python-app-with-12-factor-methodology) - This article, explores how to refactor a Python task management app using Amazon Q Developer and the /dev agent to better align with the 12-factor methodology. 
 
 - [Streamline Your Git Commits with Amazon Q Developer CLI](https://www.youtube.com/watch?v=vRiqQqVlsyM) - Discover how Amazon Q Developer CLI revolutionizes your Git workflow with powerful context modifiers. Learn to use @git for generating precise commit messages, @env for environment insights, and @history for action recaps. See a live demo of the @git modifier in action, transforming your commit process. Boost productivity, improve team collaboration, and maintain cleaner code histories with Amazon Q's tailored assistance.
 
