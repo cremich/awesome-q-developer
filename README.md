@@ -13,6 +13,14 @@
 
 ## 📝 Blog Posts & Articles
 
+- [Build an arcade scrolling game in a day with generative AI](https://community.aws/content/2oAoQyCZWhRMpHWecW6dGykzP0T/how-i-built-an-arcade-scrolling-game-in-one-day) - See how you can use AI coding assistants like Amazon Q Developer to build and deploy a simple online arcade scroller.
+
+- [https://dev.to/welcloud-io/from-diagram-to-code-with-amazon-q-developer-2da4](https://dev.to/welcloud-io/from-diagram-to-code-with-amazon-q-developer-2da4) - This blog post demonstrates how you can use Amazon Q Developer to build a diagram from code and code from a diagram. 
+
+- [Can Amazon Q Developer draw diagrams. No but yes!](https://community.aws/content/2nHdJM5CsZFElsGarZGVF9k45mp/can-amazon-q-developer-drawn-diagram-no-but-yes) - Can Amazon Q Developer draw architecture diagrams? No it can't draw them but it can code them which then is drawn by the diagram tool.
+
+- [From Concept to Playable in Seconds: Creating the Greedy Snake Game with Amazon Q Developer](https://community.aws/content/2mlndUmDADGwEWfv2K5SUmgJCM4/from-concept-to-playable-in-seconds-creating-the-greedy-snake-game-with-amazon-q-developer) -  this post details using Amazon Q Developer to generate a Greedy Snake game from prompts, including the AI's thought process, final Python code leveraging Pygame, and iterative improvements.
+
 - [DIY personalization for Amazon Q Developer](https://it20.info/2024/10/diy-personalization-for-amazon-q-developer/) - This blog post explains an experiment that could potentially allow a builder to steer Q Developer to interact with you following patterns of their preference.
 
 - [Refactoring your Python App with 12-Factor Methodology](https://community.aws/content/2ijY3b6Prx7nWFfcSs16OFUBJmi/refactoring-your-python-app-with-12-factor-methodology) - This article, explores how to refactor a Python task management app using Amazon Q Developer and the /dev agent to better align with the 12-factor methodology. 
@@ -122,6 +130,8 @@
 - [Amazon Q Developer Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/140d775f-670f-4e22-96e0-545515e7b35f/en-US) - In this immersive workshop, you will explore the transformative impact of generative AI on the development activities, allowing you to apply next-generation developer experience concepts throughout your SDLC. You will gain practical insights into how generative AI can significantly enhances your efficiency.
 
 ## 🛠️ Tools & Integrations
+
+- [https://github.com/aws/mynah-ui](https://github.com/aws/mynah-ui) - The chat interface of Amazon Q Developer (for IDEs)
 
 - [AWS Toolkit for VSCode](https://github.com/aws/aws-toolkit-vscode) - The AWS Toolkit for Visual Studio Code is an extension for connecting your favorite IDE to use AmazonCodewhisperer.
 
