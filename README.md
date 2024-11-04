@@ -15,7 +15,7 @@
 
 - [Build an arcade scrolling game in a day with generative AI](https://community.aws/content/2oAoQyCZWhRMpHWecW6dGykzP0T/how-i-built-an-arcade-scrolling-game-in-one-day) - See how you can use AI coding assistants like Amazon Q Developer to build and deploy a simple online arcade scroller.
 
-- [https://dev.to/welcloud-io/from-diagram-to-code-with-amazon-q-developer-2da4](https://dev.to/welcloud-io/from-diagram-to-code-with-amazon-q-developer-2da4) - This blog post demonstrates how you can use Amazon Q Developer to build a diagram from code and code from a diagram. 
+- [From Diagram to Code with Amazon Q Developer](https://dev.to/welcloud-io/from-diagram-to-code-with-amazon-q-developer-2da4) - This blog post demonstrates how you can use Amazon Q Developer to build a diagram from code and code from a diagram. 
 
 - [Can Amazon Q Developer draw diagrams. No but yes!](https://community.aws/content/2nHdJM5CsZFElsGarZGVF9k45mp/can-amazon-q-developer-drawn-diagram-no-but-yes) - Can Amazon Q Developer draw architecture diagrams? No it can't draw them but it can code them which then is drawn by the diagram tool.
 
