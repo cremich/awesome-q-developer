@@ -7,15 +7,19 @@
 ## Contents
 
 - [🎯 Getting Started](#-getting-started)
+- [🌱 Learning Paths](#-learning-paths)
 - [🏛️ Architecture & Design](#-architecture--design)
 - [🖼️ Diagram To Code](#️-diagram-to-code)
+- [🧱 Feature Development](#-feature-development)
 - [🎯 Amazon Q Developer Customizations](#-amazon-q-developer-customizations)
 - [🔄 Code Transformation & Modernization](#-code-transformation--modernization)
 - [🧪 Testing & Quality](#-testing--quality)
 - [🧑‍💻 Prompt Engineering](#-prompt-engineering)
 - [📚 Documentation & Knowledge Sharing](#-documentation--knowledge-sharing)
+- [🏗️ Infrastructure as Code](#️-infrastructure-as-code)
 - [⚡ Developer Productivity](#-developer-productivity)
 - [🔎 Operations](#-operations)
+- [🥳 Case Studies & Success Stories](#-case-studies--success-stories)
 - [🎮 Game Development](#-game-development)
 
 Legend:
@@ -23,16 +27,19 @@ Legend:
 - 📝 Blog Post/Article
 - 📺 Video
 - 🛠️ Tools/Integrations
+- 📚 Documentation
 
 ## 🎯 Getting Started
 - 🛠️ [Installing the Amazon Q Developer extension or plugin in your IDE](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-in-IDE-setup.html) - Learn how to set up AMazon Q Developer in your integrated development environment. 
+- 📝 [Setting Up the AWS Organization, Identity Center, and the Amazon Q Developer Pro Subscription](https://community.aws/content/2gVkt0Ir5xLHGuhIWhhDycdo260/setting-up-the-aws-organization-identity-center-and-the-amazon-q-developer-pro-subscription) - Your development team is excited to use the pro features of Amazon Q Developer—but they need to connect to a valid subscription server. You are the person responsible for all things AWS and it is your job to make this happen. Don't worry, in this blog post I will share with you exactly what you need to do.
+- 📝 [Accelerate your Software Development Lifecycle with Amazon Q](https://aws.amazon.com/blogs/devops/accelerate-your-software-development-lifecycle-with-amazon-q/) - This blog post explores how Amazon Q can accelerate development tasks across the SDLC using an example To-Do API project. Throughout this blog, we will navigate through the various phases of the SDLC while implementing To-Do API by leveraging Amazon Q Business and Amazon Q Developer. We will walk through common use cases for Amazon Q Business in the planning and research phases, and Amazon Q Developer in the research, design, development, testing, and maintenance phases.
+- 📝 [My "Aha!" Moment with Amazon Q - Understanding the Personas of AWS's AI Assitant](https://cremich.cloud/my-aha-moment-with-amazon-q) - This blog post breaks down the different Personas of Amazon Q and how those personalities change depending on where you interact with the service. You'll learn why grasping this concept is key, making Amazon Q a powerful tool in your cloud development toolbox.
+
+## 🌱 Learning Paths
 - 🎓 [Amazon Q Developer Immersion Day](https://catalog.us-east-1.prod.workshops.aws/workshops/140d775f-670f-4e22-96e0-545515e7b35f/en-US) - In this immersive workshop, you will explore the transformative impact of generative AI on the development activities, allowing you to apply next-generation developer experience concepts throughout your SDLC. You will gain practical insights into how generative AI can significantly enhances your efficiency.
 - 🎓 [Amazon Q Developer Deep Dive](https://catalog.us-east-1.prod.workshops.aws/workshops/e2226eb6-f109-47ae-b2c5-f02bf73b7d0e/en-US) - This workshop will help you learn how to use Amazon Q Developer to write code faster and with fewer errors. Amazon Q Developer is an AI coding companion that provides suggestions for code snippets & full code generation based on the context of your file, function & variable names, and comments. It is powered by machine learning and trained on billions of lines of AWS & other open source code. However, Amazon Q Developer can limit the suggested code to open source code based on the license type that is not restrictive.
-- 🎓 [Next Generation Developer Tools](https://github.com/094459/q-workshop) - A hands on guide to working with Amazon Q Developer. Made by DevRel with 💖. In this hands on lab, we are going to run through how to use the next generation of developer tooling to help make our jobs as developers more enjoyable and productive. We will create a new application from scratch, and then build upon this and perform many of the tasks you would typically do as a developer. Author: [Ricardo Sueiras](https://github.com/094459)
-- 📝 [Reimagining software development with the Amazon Q Developer Agent](https://aws.amazon.com/blogs/machine-learning/reimagining-software-development-with-the-amazon-q-developer-agent/) - This post describes how to get started with the software development agent, gives an overview of how the agent works, and discusses its performance on public benchmarks.
-- 📝 [My "Aha!" Moment with Amazon Q - Understanding the Personas of AWS's AI Assitant](https://cremich.cloud/my-aha-moment-with-amazon-q) - This blog post breaks down the different Personas of Amazon Q and how those personalities change depending on where you interact with the service. You'll learn why grasping this concept is key, making Amazon Q a powerful tool in your cloud development toolbox.
-- 📝 [Accelerate your Software Development Lifecycle with Amazon Q](https://aws.amazon.com/blogs/devops/accelerate-your-software-development-lifecycle-with-amazon-q/) - This blog post explores how Amazon Q can accelerate development tasks across the SDLC using an example To-Do API project. Throughout this blog, we will navigate through the various phases of the SDLC while implementing To-Do API by leveraging Amazon Q Business and Amazon Q Developer. We will walk through common use cases for Amazon Q Business in the planning and research phases, and Amazon Q Developer in the research, design, development, testing, and maintenance phases.
-- 📝 [Setting Up the AWS Organization, Identity Center, and the Amazon Q Developer Pro Subscription](https://community.aws/content/2gVkt0Ir5xLHGuhIWhhDycdo260/setting-up-the-aws-organization-identity-center-and-the-amazon-q-developer-pro-subscription) - Your development team is excited to use the pro features of Amazon Q Developer—but they need to connect to a valid subscription server. You are the person responsible for all things AWS and it is your job to make this happen. Don't worry, in this blog post I will share with you exactly what you need to do. Author: [Ricardo Ferreira](https://github.com/riferrei)
+- 🎓 [Building the Q-Words App](https://catalog.workshops.aws/qwords/en-US) - By completing this workshop, you will gain hands-on experience in planning, writing, optimizing, and troubleshooting code using Amazon Q Developer capabilities in the IDE and in the AWS Console.
+- 🎓 [Next Generation Developer Tools](https://github.com/094459/q-workshop) - A hands on guide to working with Amazon Q Developer. Made by DevRel with 💖. In this hands on lab, we are going to run through how to use the next generation of developer tooling to help make our jobs as developers more enjoyable and productive. We will create a new application from scratch, and then build upon this and perform many of the tasks you would typically do as a developer.
 
 ## 🏛️ Architecture & Design
 - 📝 [A practical approach to using generative AI in the SDLC](https://community.aws/content/2i1vLMdryliLgpdceMy2N6o2LPn/a-practical-approach-to-using-generative-ai-in-the-sdlc) - Learn how an AI assistant like Amazon Q Developer helps me figure out what to build and how to build it.
@@ -41,6 +48,12 @@ Legend:
 ## 🖼️ Diagram To Code
 - 📝 [From Diagram to Code with Amazon Q Developer](https://dev.to/welcloud-io/from-diagram-to-code-with-amazon-q-developer-2da4) - Learn how to use Amazon Q Developer to build a diagram from code and code from a diagram.
 - 📝 [Can Amazon Q Developer draw diagrams. No but yes!](https://community.aws/content/2nHdJM5CsZFElsGarZGVF9k45mp/can-amazon-q-developer-drawn-diagram-no-but-yes) - Explore how Amazon Q Developer can help with architecture diagrams through code generation.
+- 📝 [Overcome startup challenges with Amazon Q Developer](https://dev.to/welcloud-io/overcome-startup-challenges-with-amazon-q-developer-45j8) - Amazon Q Developer is also a very good "architecting" assistant. It can generate code from a diagram but also a diagram from the code.
+
+## 🧱 Feature Development
+- 📝 [Reinventing the Amazon Q Developer agent for software development](https://aws.amazon.com/blogs/devops/reinventing-the-amazon-q-developer-agent-for-software-development/) - This post describes how to get started with the software development agent, gives an overview of how the agent works, and discusses its performance on public benchmarks.
+- 📚 [Developing features with Amazon Q Developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/software-dev.html) - Official documentation of the Amazon Q Developer `/dev` agent.
+- 📺 [Accelerate multistep SDLC tasks with Amazon Q Developer Agent](https://www.youtube.com/watch?v=ovo0A8AqSIc) - Discover how agent capabilities help developers go from planning to building new features faster. Also, hear from DTCC on how they use Amazon Q to streamline their development processes.
 
 ## 🎯 Amazon Q Developer Customizations
 - 📝 [Writing CDK like a Pro using Amazon Q Customizations](https://community.aws/content/2jiAuQ0WB9fTInbfjgK9yXZt9f6/writing-cdk-like-a-pro-using-amazon-q-customizations) - Learn how to leverage Amazon Q Developer Customizations for infrastructure design using AWS CDK.
@@ -59,16 +72,22 @@ Legend:
 - 📝 [Shift left Workload. Leveraging AI for test creation](https://community.aws/content/2gBZtC94gPzaCQRnt4P0rIYWuBx/shift-left-workload-leveraging-ai-for-test-creation) - How Amazon Q can automate test creation for faster, higher quality delivery.
 - 📝 [Three Amigos and a Generative AI Assistant](https://community.aws/content/2mG3roWdRCGNe33RzpIkzdZYgqD/three-amigos-and-a-generative-ai-assistant) - The blog post discusses using the AI assistant Amazon Q to support the Three Amigos meeting, a practice in Agile software development involving key stakeholders. It highlights how Behaviour-Driven Development (BDD) can be integrated into the Three Amigos meeting to capture requirements in an executable format. The post provides a mock transcript of a Three Amigos meeting and demonstrates how Amazon Q for Developer can generate feature files based on the transcript, using Cucumber and Gherkin language.
 - 🎓 [Securing your Code with Amazon Q Developer](https://catalog.us-east-1.prod.workshops.aws/workshops/fe2c944b-f014-44d6-a243-1fc2e30b5f73/en-US) - Workshop on using Q Developer's Security scanning to detect and fix security vulnerabilities.
+- 📺 [Amazon Q Developer, Amazon Inspector & AI remediation for secure SDLC](https://www.youtube.com/watch?v=D7l-XYH78MI) - Elevate your security posture with AWS across the software development lifecycle (SDLC). Use Amazon Q Developer in the IDE to scan code before committing, Amazon CodeGuru in the CI/CD pipeline to block insecure deployments, and Amazon Inspector at runtime for continuous scanning.
 
 ## 🧑‍💻 Prompt Engineering
 - 🛠️ [PROMPTZ](https://promptz.dev) - PROMPTZ is your ultimate resource for Amazon Q Developer prompt engineering. Discover, create, and share high-quality prompts to tackle real-world software development challenges.
+- 📝 [25 tips to supercharge your development](https://dev.to/aws/amazon-q-developer-tips-25-tips-to-supercharge-your-development-2ffg) - These tips will help you accelerate your understanding and use of Amazon Q Developer,
 
 ## 📚 Documentation & Knowledge Sharing
 - 🛠️ [How to Q](https://howtoq.help/) - A comprehensive guide for Amazon Q. This is your one-stop hub for how and why to use Amazon Q.
+- 🛠️ [The ultimate Amazon Q Developer cheat sheet](https://it20.info/misc/html-pages/amazon-q-ide-table.html) - Provides a useful overview of all the Amazon Q Developer tools together with information such as context availability, supported languages, links to documentation and more.
+
+## 🏗️ Infrastructure as Code
+- 📺 [Next-generation CDK development with Amazon Q Developer](https://www.youtube.com/watch?v=WEYuvh3YqkI) - This session demonstrates how to leverage Amazon Q Developer to create tailored CDK constructs that encapsulate cloud architecture patterns. Learn to design effective constructs, utilize Amazon Q's features for automated documentation and testing, and explore customization options to optimize the developer experience with infrastructure as code.
 
 ## ⚡ Developer Productivity
 - 📺 [Streamline Your Git Commits with Amazon Q Developer CLI](https://www.youtube.com/watch?v=vRiqQqVlsyM) - Discover how Amazon Q Developer CLI revolutionizes your Git workflow with powerful context modifiers.
-- 📺 [Developer Productivity and Happiness](https://www.youtube.com/playlist?list=PLRQABTTCtpPpOIpFO8OwYGtlLCtNHeJSo) - A video playlist with practical examples on using Amazon Q Developer across the whole SDLC.
+- 📺 [Boosting productivity with Amazon Q Developer agents](https://www.youtube.com/watch?v=25bzJ-4RWH8) - Learn to leverage Amazon Q directly from your code editor, guiding you through architectural decisions, generating code, and visualizing existing applications
 - 📝 [How I used Amazon Q Developer to move faster with data](https://community.aws/content/2jK26brVpXufp1eH7rN5mjkfydk/how-i-used-amazon-q-developer-to-move-faster-with-data) - Learn how Amazon Q Developer can help you work quicker and more confidently with data.
 - 📝 [Using the Amazon Q feature development capability to write documentation](https://it20.info/2024/3/using-the-amazon-q-feature-development-capability-to-produce-documentation/) - Learn how to leverage generative AI for documentation tasks beyond code generation.
 - 📝 [I'm a lazy developer. Here's how Amazon Q is enabling me](https://community.aws/content/2gQKqKLQqKmlvFsnp4zuCENKW8i/i-m-a-lazy-developer-here-s-how-amazon-q-is-enabling-me) - I'm always on the hunt for ways to improve my productivity as a lazy developer. Here's what I've learned and how Amazon Q is helping me stay in the flow. Author: [Jenna Pederson](https://github.com/jennapederson)
@@ -76,6 +95,10 @@ Legend:
 ## 🔎 Operations
 - [Work Smarter, Not Harder with Observability using Amazon Q Developer](https://community.aws/content/2gZ6lE5AnoFwgFVIzgNwRwIg3WJ/work-smarter-not-harder-with-observability-using-amazon-q-developer) - In a world where applications are highly distributed, loosely coupled, and leveraging the backbone of the cloud, it becomes imperative the usage of observability to keep things under control. But implementing observability is not a trivial task. It requires coding, the usage of complex configuration files, and a considerable amount of plumbing to get things together. But what if you could get a little help with these things using Generative AI? Author: [Ricardo Ferreira](https://github.com/riferrei)
 - [Implementing Observability with Amazon Q Developer](https://www.youtube.com/playlist?list=PL5bUlblGfe0Jvmb9gnDXx-LIr2_u4JpLA) - Implementing observability can be easy if you work with the right person. Sometimes it doesn't need to be a person, but a machine who understands your needs. In this video, Ricardo Ferreira from AWS shows how to use Amazon Q Developer to instrument a microservice written in Go for OpenTelemetry. Author: [Ricardo Ferreira](https://github.com/riferrei)
+
+## 🥳 Case Studies & Success Stories
+- 📺 [Amazon’s journey with Amazon Q Developer](https://www.youtube.com/watch?v=XYpkuxprJcw) - Discover how Amazon rolled out Amazon Q Developer to thousands of developers, trained them in prompt engineering, and measured its transformative impact on productivity. 
+- 📝 [How Amazon Q Developer helped me to save days of work](https://cremich.cloud/how-amazon-q-developer-helped-me-to-save-days-of-work) - In just 15 minutes, Christian created a Python script that crawls the entire official Bundesliga DataHub API – a task that would have typically taken one to two full days of work. A love-story about accelerating data collection, prompt engineering and lessons learned.
 
 ## 🎮 Game Development
 - [Build an arcade scrolling game in a day with generative AI](https://community.aws/content/2oAoQyCZWhRMpHWecW6dGykzP0T/how-i-built-an-arcade-scrolling-game-in-one-day) - See how you can use AI coding assistants like Amazon Q Developer to build and deploy a simple online arcade scroller.
