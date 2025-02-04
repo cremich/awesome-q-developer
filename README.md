@@ -11,6 +11,7 @@
 - [🏛️ Architecture & Design](#-architecture--design)
 - [🖼️ Diagram To Code](#️-diagram-to-code)
 - [🧱 Feature Development](#-feature-development)
+- [🔎 Data Analysis](#-data-analysis)
 - [🎯 Amazon Q Developer Customizations](#-amazon-q-developer-customizations)
 - [🔄 Code Transformation & Modernization](#-code-transformation--modernization)
 - [🧪 Testing & Quality](#-testing--quality)
@@ -54,6 +55,12 @@ Legend:
 - 📝 [Reinventing the Amazon Q Developer agent for software development](https://aws.amazon.com/blogs/devops/reinventing-the-amazon-q-developer-agent-for-software-development/) - This post describes how to get started with the software development agent, gives an overview of how the agent works, and discusses its performance on public benchmarks.
 - 📚 [Developing features with Amazon Q Developer](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/software-dev.html) - Official documentation of the Amazon Q Developer `/dev` agent.
 - 📺 [Accelerate multistep SDLC tasks with Amazon Q Developer Agent](https://www.youtube.com/watch?v=ovo0A8AqSIc) - Discover how agent capabilities help developers go from planning to building new features faster. Also, hear from DTCC on how they use Amazon Q to streamline their development processes.
+- 📝 [Building Safe and Efficient Web APIs with Rust, Actix Web and Amazon Q Developer](https://community.aws/content/2rcuD9qUxuYfqWzI82o6pOVvUmV/q-bits-building-safe-and-efficient-web-apis-with-rust-actix-web-and-amazon-q-developer) - Learn how to create high-performance web APIs in Rust using the Actix framework. Amazon Q Developer will demonstrate how to set up routes, handle request parsing and validation, and implement async handlers.
+- 📺 [Building a full stack app with Amazon Q Developer in few minutes](https://www.youtube.com/watch?v=06rB0yNrJT8&list=WL)
+
+## 🔎 Data Analysis
+- 📝 [Elevate Your Data Analysis and Visualization Game with Amazon Q Developer, Pandas, and Matplotlib](https://community.aws/content/2mV04yuWEQBDDl6BEtYPHKTKa4i/q-bits-elevate-your-data-analysis-and-visualization-game-with-amazon-q-developer-pandas-and-matplotlib) - Explore strategies to elevate your data analysis and visualization skills with this powerful trio Amazon Q Developer, Pandas and Matplotlib
+- 📝 [Leveraging Amazon Q for Developer and QuickSight for Lightning-Fast CloudOps Data Visualization](https://community.aws/content/2rvG7CqfAra7IJAYdDgLwnbJfWp/leveraging-amazon-q-for-developer-and-quicksight-for-lightning-fast-cloudops-data-visualization) - Learn how to streamline cloud operations by combining Amazon Q for Developer and QuickSight. This solution shows how to quickly use these GenAI tools to build a serverless application for automated resource inventory management and monitoring.
 
 ## 🎯 Amazon Q Developer Customizations
 - 📝 [Writing CDK like a Pro using Amazon Q Customizations](https://community.aws/content/2jiAuQ0WB9fTInbfjgK9yXZt9f6/writing-cdk-like-a-pro-using-amazon-q-customizations) - Learn how to leverage Amazon Q Developer Customizations for infrastructure design using AWS CDK.
@@ -77,6 +84,7 @@ Legend:
 ## 🧑‍💻 Prompt Engineering
 - 🛠️ [PROMPTZ](https://promptz.dev) - PROMPTZ is your ultimate resource for Amazon Q Developer prompt engineering. Discover, create, and share high-quality prompts to tackle real-world software development challenges.
 - 📝 [25 tips to supercharge your development](https://dev.to/aws/amazon-q-developer-tips-25-tips-to-supercharge-your-development-2ffg) - These tips will help you accelerate your understanding and use of Amazon Q Developer,
+- 🛠️ [Amazon Q Developer Tips](https://nathanpeck.github.io/q-developer-tips/) - Best Practices for prompting
 
 ## 📚 Documentation & Knowledge Sharing
 - 🛠️ [How to Q](https://howtoq.help/) - A comprehensive guide for Amazon Q. This is your one-stop hub for how and why to use Amazon Q.
@@ -84,6 +92,11 @@ Legend:
 
 ## 🏗️ Infrastructure as Code
 - 📺 [Next-generation CDK development with Amazon Q Developer](https://www.youtube.com/watch?v=WEYuvh3YqkI) - This session demonstrates how to leverage Amazon Q Developer to create tailored CDK constructs that encapsulate cloud architecture patterns. Learn to design effective constructs, utilize Amazon Q's features for automated documentation and testing, and explore customization options to optimize the developer experience with infrastructure as code.
+- 📝 [Simplifying VPC configurations setup with AWS CloudFormation using Amazon Q Developer](https://community.aws/content/2rfzwQcf4Z8Jb7EQRlgRMJ8eltx/q-bits-simplifying-vpc-configuration-setup-with-cloudformation-using-amazon-q-developer) - Learn how Amazon Q Developer streamlines VPC configuration and deployment with AWS CloudFormation, helping you build secure, scalable cloud infrastructure efficiently.
+- 📝 [Modernizing CloudFormation Templates with AWS CloudFormation Helper Scripts and Amazon Q](https://community.aws/content/2rGa0MlpPCJ3EhJZXUwwxv2LkTe/q-bits-modernizing-cloudformation-templates-with-aws-cloudformation-helper-scripts-and-amazon-q) - Discover how Amazon Q Developer streamlines the modernization of CloudFormation templates with helper scripts, making infrastructure deployment more robust and maintainable.
+- 📝 [Automating CDK with Amazon Q Developer Customizations](https://community.aws/content/2r4xq1m0R9Tgafmz7GvS1oS3uNQ/automating-cdk-with-amazon-q-developer-customizations) - By taking the time to customize Amazon Q Developer, I've been able to streamline my CDK development.
+- 📝 [Provisioning RDS with Terraform and Q Developer](https://community.aws/content/2rq3I8AotcBTK0li3iaL4H8OClA/q-bits-provisioning-rds-with-terraform-and-q-developer) - Amazon Q Developer enhances Terraform workflows by providing real-time explanations, suggesting best practices, and generating code.
+- 📝 [Using Q Developer and CDK to create multi-region deployments](https://community.aws/content/2sKShgkpUKv1GO8ANrhfc4MNl5a/using-q-developer-and-cdk-to-create-multi-region-deployments) - An example of using Amazon Q Developer to convert a CDK stack from single-region to multi-region deployment.
 
 ## ⚡ Developer Productivity
 - 📺 [Streamline Your Git Commits with Amazon Q Developer CLI](https://www.youtube.com/watch?v=vRiqQqVlsyM) - Discover how Amazon Q Developer CLI revolutionizes your Git workflow with powerful context modifiers.
@@ -91,10 +104,15 @@ Legend:
 - 📝 [How I used Amazon Q Developer to move faster with data](https://community.aws/content/2jK26brVpXufp1eH7rN5mjkfydk/how-i-used-amazon-q-developer-to-move-faster-with-data) - Learn how Amazon Q Developer can help you work quicker and more confidently with data.
 - 📝 [Using the Amazon Q feature development capability to write documentation](https://it20.info/2024/3/using-the-amazon-q-feature-development-capability-to-produce-documentation/) - Learn how to leverage generative AI for documentation tasks beyond code generation.
 - 📝 [I'm a lazy developer. Here's how Amazon Q is enabling me](https://community.aws/content/2gQKqKLQqKmlvFsnp4zuCENKW8i/i-m-a-lazy-developer-here-s-how-amazon-q-is-enabling-me) - I'm always on the hunt for ways to improve my productivity as a lazy developer. Here's what I've learned and how Amazon Q is helping me stay in the flow. Author: [Jenna Pederson](https://github.com/jennapederson)
+- 📝 [Streamlining Docker Compose with Amazon Q Developer](https://community.aws/content/2r4vEadauMFkO032h02mVeCfWS1/q-bits-streamlining-docker-compose-with-amazon-q-developer) - Amazon Q Developer streamlines Docker Compose workflows, explaining configs, suggesting improvements, and anticipating hardware needs.
 
 ## 🔎 Operations
-- [Work Smarter, Not Harder with Observability using Amazon Q Developer](https://community.aws/content/2gZ6lE5AnoFwgFVIzgNwRwIg3WJ/work-smarter-not-harder-with-observability-using-amazon-q-developer) - In a world where applications are highly distributed, loosely coupled, and leveraging the backbone of the cloud, it becomes imperative the usage of observability to keep things under control. But implementing observability is not a trivial task. It requires coding, the usage of complex configuration files, and a considerable amount of plumbing to get things together. But what if you could get a little help with these things using Generative AI? Author: [Ricardo Ferreira](https://github.com/riferrei)
-- [Implementing Observability with Amazon Q Developer](https://www.youtube.com/playlist?list=PL5bUlblGfe0Jvmb9gnDXx-LIr2_u4JpLA) - Implementing observability can be easy if you work with the right person. Sometimes it doesn't need to be a person, but a machine who understands your needs. In this video, Ricardo Ferreira from AWS shows how to use Amazon Q Developer to instrument a microservice written in Go for OpenTelemetry. Author: [Ricardo Ferreira](https://github.com/riferrei)
+- 📝 [Work Smarter, Not Harder with Observability using Amazon Q Developer](https://community.aws/content/2gZ6lE5AnoFwgFVIzgNwRwIg3WJ/work-smarter-not-harder-with-observability-using-amazon-q-developer) - In a world where applications are highly distributed, loosely coupled, and leveraging the backbone of the cloud, it becomes imperative the usage of observability to keep things under control. But implementing observability is not a trivial task. It requires coding, the usage of complex configuration files, and a considerable amount of plumbing to get things together. But what if you could get a little help with these things using Generative AI? Author: [Ricardo Ferreira](https://github.com/riferrei)
+- 📺 [Implementing Observability with Amazon Q Developer](https://www.youtube.com/playlist?list=PL5bUlblGfe0Jvmb9gnDXx-LIr2_u4JpLA) - Implementing observability can be easy if you work with the right person. Sometimes it doesn't need to be a person, but a machine who understands your needs. In this video, Ricardo Ferreira from AWS shows how to use Amazon Q Developer to instrument a microservice written in Go for OpenTelemetry. Author: [Ricardo Ferreira](https://github.com/riferrei)
+- 📝 [Formatting Output in the AWS CLI with Amazon Q Developer](https://community.aws/content/2rurhoxD6xZKEHVvbHQBWGPeISc/formatting-output-in-the-aws-cli-with-amazon-q-developer) - The blog post explores how the Amazon Q Developer simplify working with the AWS Command Line Interface (CLI).
+- 📝 [Setting Up KMS Keys with Amazon Q Developer](https://community.aws/content/2s2udcJW3Bs6PFkL2ROn6JnbVwo/q-bits-setting-up-kms-keys-with-amazon-q-developer) - This blog post explores how Amazon Q Developer can help with the management of AWS KMS encryption keys.
+- 📝 [Streamline RDS Operations with AWS CLI and Amazon Q Developer](https://community.aws/content/2sKTeEtiwfavTI1vMII9dJcmE3U/q-bits-streamline-rds-operations-with-aws-cli-and-amazon-q-developer) - This blog post explores how Amazon Q Developer simplifies performing complex RDS operations via AWS CLI
+ 
 
 ## 🥳 Case Studies & Success Stories
 - 📺 [Amazon’s journey with Amazon Q Developer](https://www.youtube.com/watch?v=XYpkuxprJcw) - Discover how Amazon rolled out Amazon Q Developer to thousands of developers, trained them in prompt engineering, and measured its transformative impact on productivity. 
