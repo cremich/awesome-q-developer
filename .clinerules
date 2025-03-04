@@ -1,0 +1,90 @@
+# Cline Rules for Awesome Amazon Q Developer
+
+## Project Patterns
+
+### Resource Entry Format
+- Each resource entry follows the pattern: `- [Type Emoji] [Resource Title](URL) - Brief description of the resource.`
+- Type emojis are used consistently: 🎓 (Workshop/Lab), 📝 (Blog Post/Article), 📺 (Video), 🛠️ (Tools/Integrations), 📚 (Documentation)
+- Descriptions are concise but informative, explaining the value of the resource
+
+### Category Structure
+- Categories use second-level headings with emoji indicators: `## [Emoji] [Category Name]`
+- Categories are organized logically based on use cases and topics
+- The table of contents links to all categories using anchor links
+
+### Content Quality
+- All resources must be specifically related to Amazon Q Developer
+- Resources should provide genuine value to users
+- Links should be to stable, reliable sources
+- Content should be current and maintained
+
+## Implementation Paths
+
+### Adding New Resources
+1. Identify a high-quality resource related to Amazon Q Developer
+2. Determine the appropriate category for the resource
+3. Format the entry according to the established pattern
+4. Add the entry to the README.md file in the appropriate category
+5. Update the memory bank to reflect the addition
+
+### Refining Categories
+1. Analyze the current category structure
+2. Identify opportunities for improvement (gaps, overlaps, etc.)
+3. Propose changes to the category structure
+4. Update the README.md file with the revised structure
+5. Update the memory bank to reflect the changes
+
+### Quality Control
+1. Regularly review existing resources for continued relevance
+2. Verify that links remain functional
+3. Update or remove outdated resources
+4. Ensure consistent formatting across all entries
+5. Update the memory bank to reflect any changes
+
+## User Preferences
+
+### Content Focus
+- Emphasis on practical, actionable resources
+- Balance between different content types (articles, videos, tools, etc.)
+- Coverage across different skill levels (beginner to advanced)
+- Inclusion of real-world examples and case studies
+
+### Organization Preferences
+- Clear, intuitive categorization
+- Consistent formatting for easy scanning
+- Descriptive resource entries
+- Logical grouping of related resources
+
+## Known Challenges
+
+### Content Currency
+- Amazon Q Developer is evolving rapidly
+- Resources may become outdated quickly
+- Regular review and updates are necessary
+
+### Coverage Completeness
+- New use cases and features emerge regularly
+- Ensuring comprehensive coverage requires ongoing effort
+- Some topics may have limited resources available
+
+### Quality Maintenance
+- As the list grows, maintaining quality becomes more challenging
+- Consistent application of standards is essential
+- Regular review of existing resources is necessary
+
+## Tool Usage Patterns
+
+### GitHub
+- Repository hosting and version control
+- Issue tracking for suggestions and improvements
+- Pull request workflow for contributions
+
+### Markdown
+- GitHub-flavored Markdown for content formatting
+- Proper heading hierarchy for structure
+- Consistent formatting for resource entries
+
+### Awesome-lint (potential)
+- Validation of awesome-list formatting standards
+- Ensuring compliance with community guidelines
+- Identifying formatting inconsistencies
