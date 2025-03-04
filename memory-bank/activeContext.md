@@ -17,7 +17,24 @@ The project already has an established structure with the following components:
 - Resource entries with consistent formatting
 - Supporting files like LICENSE, CONTRIBUTING.md, etc.
 
-No changes have been made to the actual awesome list content yet, as we're still in the initialization and documentation phase.
+Recent changes to the awesome list content:
+- Added a GitHub repository resource to the Diagram To Code section:
+  - "From Diagram to Code with Amazon Q Developer - GitHub Repository" - A collection of tutorials demonstrating how to generate diagrams from application code and how to generate code from diagrams using Amazon Q Developer in VS Code.
+
+- Previously added six YouTube video resources to the repository:
+  - Added to Amazon Q Developer Customizations section: "AWS re:Invent 2024 - Best practices for customizing Amazon Q Developer (DOP217)" - A video showing how to set up customizations and generate code based on internal repositories.
+  - Added to Code Transformation & Modernization section: "Accelerate application modernization using generative AI | AWS Developer Day 2025" - A video demonstrating how to port .NET Framework applications to cross-platform .NET using Amazon Q Developer.
+  - Added to Infrastructure as Code section: "Building a Generative AI App with Infrastructure as Code powered by Amazon Q Developer" - A video showing how to build a complete generative AI application with infrastructure as code.
+  - Added to Developer Productivity section: "Supercharge your productivity across the SDLC with generative AI | AWS Developer Day 2025" - A video explaining how to use Amazon Q Developer's agentic capabilities to accelerate SDLC tasks.
+  - Added to Operations section: "Streamline operational troubleshooting with Amazon Q Developer | AWS Developer Day 2025" - A video demonstrating how to accelerate operational investigations and find root causes using Amazon Q Developer.
+  - Added to Case Studies & Success Stories section: "AWS re:Invent 2024 - Streamlining software development across Amazon.com with Amazon Q (AMZ202)" - A video showing how Amazon integrated Q Developer across their software development lifecycle.
+
+- Previously added five resources to the repository:
+  - Added to Infrastructure as Code section: "Q-Bits: Configuring Cross-Account Access with Amazon Q Developer" - A blog post showing how Amazon Q Developer can assist with implementing secure multi-account strategies with cross-account access.
+  - Added to Infrastructure as Code section: "Q-Bits: Creating CloudFormation Templates" - A blog post demonstrating how Amazon Q Developer guides users through CloudFormation template creation.
+  - Added to Infrastructure as Code section: "Creating S3 Bucket Configurations with CloudFormation using Amazon Q Developer" - A blog post showing how Amazon Q Developer streamlines S3 bucket deployments with CloudFormation.
+  - Added to Infrastructure as Code section: "Generate Terraform code using Amazon Q Developer" - A practical guide showing how to use Amazon Q Developer to generate Terraform code for serverless infrastructure.
+  - Added to Developer Productivity section: "Generation AI: The age of AI Paired Programming" - A blog post exploring how Amazon Q Developer combines paired programming with rubber duck debugging approaches.
 
 ## Next Steps
 
