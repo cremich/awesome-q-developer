@@ -1,6 +1,6 @@
 # Contributing Guide
 
-First off, thank you for considering contributing to ["Awesome Codewhisperer"](https://github.com/cremich/awesome-codewhisperer). It’s people like you that make a difference. Pull requests are welcome. For major changes, please open an [issue](https://github.com/cremich/awesome-codewhisperer/issues) first to discuss what you would like to change.
+First off, thank you for considering contributing to ["Awesome Q Developer"](https://github.com/cremich/awesome-q-developer). It’s people like you that make a difference. Pull requests are welcome. For major changes, please open an [issue](https://github.com/cremich/awesome-codewhisperer/issues) first to discuss what you would like to change.
 
 ## Pull Requests
 
