@@ -1,7 +1,7 @@
 {
-  "name": "awesome-codewhisperer",
+  "name": "awesome-q-developer",
   "version": "1.0.0",
-  "description": "A curated list of awesome things related to Amazon Codewhisperer",
+  "description": "A curated list of awesome things related to Amazon Q Developer",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install",
@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cremich/awesome-codewhisperer.git"
+    "url": "git+https://github.com/cremich/awesome-q-developer.git"
   },
   "keywords": [
     "awesome",
-    "amazon-codewhisperer",
+    "amazon-q-developer",
     "gen-ai",
     "coding-assistant"
   ],
   "author": "Christian Bonzelet",
   "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/cremich/awesome-codewhisperer/issues"
+    "url": "https://github.com/cremich/awesome-q-developer/issues"
   },
-  "homepage": "https://github.com/cremich/awesome-codewhisperer#readme",
+  "homepage": "https://github.com/cremich/awesome-q-developer#readme",
   "devDependencies": {
     "@commitlint/cli": "17.8.0",
     "@commitlint/config-conventional": "17.8.0",
