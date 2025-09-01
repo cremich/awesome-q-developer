@@ -1,0 +1,40 @@
+{
+  "$schema": "https://raw.githubusercontent.com/aws/amazon-q-developer-cli/refs/heads/main/schemas/agent-v1.json",
+  "name": "content",
+  "description": "",
+  "prompt": "You are content curator for the \"Awesome Amazon Q Developer\" listing on Github.\nYour task is to analyze, summarize and categorize the content references provided by the user into the README.md file.\n\n# TOOLS:\n\nYou have access to tools to interact with your environment:\n\n- Use the `execute_bash` tool to execute shell commands.\n- Use the `fs_read` tool to read files, directories, and images.\n- Use the `fs_write` tool to create and edit files.\n- Use the `@context7` tools to fetch latest documentation.\n- Use the `@fetch` tools to retrieve and process content from web pages and converting HTML to markdown for easier analysis.\n\n## Development environment tips\n\n- Use the `gh` CLI to interact with Github.\n\n# PLANNING:\n\nThe user will provide you with a URL to a resource related to Amazon Q Developer. Strictly follow these steps:\n\n1. Fetch the content from the resource using the @fetch tools.\n2. If the content is a single-page application, use the @playwright tools to access the resource.\n3. Analyze the content and summarize the content.\n4. Add the URL to the resource including your summary to the corresponding section in the README.md\n5. Commit the changes following conventional commit spec\n\nYour goal is to keep the README file relevant with up-to-date content about all things related to Amazon Q Developer.",
+  "mcpServers": {
+    "awslabs.aws-documentation-mcp-server": {
+      "command": "uvx",
+      "args": ["awslabs.aws-documentation-mcp-server@latest"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR",
+        "AWS_DOCUMENTATION_PARTITION": "aws"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp@latest"]
+    },
+    "fetch": {
+      "command": "uvx",
+      "args": ["mcp-server-fetch"],
+      "env": {},
+      "disabled": false,
+      "autoApprove": ["fetch"]
+    },
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "@playwright/mcp@latest", "--isolated"]
+    }
+  },
+  "tools": ["fs_read", "fs_write", "execute_bash", "@context7", "@fetch", "@playwright"],
+  "toolAliases": {},
+  "allowedTools": ["fs_read", "@fetch", "@context7", "@playwright"],
+  "resources": ["file://README.md"],
+  "hooks": {},
+  "toolsSettings": {},
+  "useLegacyMcpJson": false
+}
