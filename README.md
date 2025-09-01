@@ -128,6 +128,7 @@ Legend:
 
 - 🛠️ [How to Q](https://howtoq.help/) - A comprehensive guide for Amazon Q. This is your one-stop hub for how and why to use Amazon Q.
 - 🛠️ [The ultimate Amazon Q Developer cheat sheet](https://it20.info/misc/html-pages/amazon-q-ide-table.html) - Provides a useful overview of all the Amazon Q Developer tools together with information such as context availability, supported languages, links to documentation and more.
+- 🛠️ [Q CLI Conversation Viewer](https://qview.chat/) - A web-based tool to visualize and analyze your Amazon Q Developer CLI conversations. Upload conversation JSON files to explore tool usage analytics, conversation flow, and understand how Q Developer processes your requests. Features privacy-first local processing and supports the standard Q CLI conversation format.
 
 ## 🏗️ Infrastructure as Code
 
